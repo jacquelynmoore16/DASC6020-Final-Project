@@ -24,7 +24,7 @@ The dataset, `iphc_fulldataset_full_depth.csv`, used in this project is the fina
 
 ## Project Structure
 - `Moore_Miller_FinalProject_Preprocessing_CSCI6020.Rmd`: R Markdown file for initial data analysis and visualization.
-- `Moore_Miller_FinalProject_CSCI6020.m`: Main script to run the KNN regression model.
+- `Moore_Miller_FinalProject_CSCI6020.m`: Matlab script to run the KNN regression model.
 - `iphc_fulldataset_full_depth.csv`: Dataset file.
 - `iphc2009.csv` : 2009 Data File
 - `iphc2010.csv` : 2010 Data File
