@@ -22,7 +22,7 @@ The dataset used in this project is `iphc_fulldataset_full_depth.csv`, which con
 - Statistics and Machine Learning Toolbox
 
 ## Project Structure
-- `Moore_FinalProject_Dasc6020.m`: Main script to run the KNN regression model.
+- `Moore_Miller_FinalProject_CSCI6020.m`: Main script to run the KNN regression model.
 - `iphc_fulldataset_full_depth.csv`: Dataset file.
 
 ## Usage
@@ -34,5 +34,5 @@ The dataset used in this project is `iphc_fulldataset_full_depth.csv`, which con
 
 ## How to Run
 1. Open MATLAB and navigate to the project directory.
-2. Run the `Moore_FinalProject_Dasc6020.m` script.
+2. Run the `Moore_Miller_FinalProject_CSCI6020.m` script.
 3. Follow the prompts to enter the regulation area and feature values for prediction.
