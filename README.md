@@ -12,7 +12,7 @@ The dataset used in this project is `iphc_fulldataset.csv`, which contains the f
 - `avg_oxy`: Average Oxygen
 - `avg_chloro`: Average Chlorophyll
 - `avg_salin`: Average Salinity
-- 'year' : Year
+- `year` : Year
 - `annual_landings`: Annual Landings (target variable)
 - `RegArea`: Regulation Area
 - `stnno`: Station Number
