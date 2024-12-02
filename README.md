@@ -45,9 +45,10 @@ The dataset used in this project is `iphc_fulldataset_full_depth.csv`, which con
 3. **Generate Report**: Knit the document to produce a comprehensive report in HTML, PDF, or Word format.
 4. 
 ### MATLAB
-1. **Load the Data**: The script reads the dataset from `iphc_fulldataset_full_depth.csv`.
-2. **Filter by Regulation Area**: The user is prompted to enter a regulation area to filter the data.
-3. **Preprocess the Data**: The script handles missing values and converts categorical variables to numeric.
-4. **Train and Evaluate the Model**: The script splits the data into training and testing sets, standardizes the features, and trains a KNN model. It also performs cross-validation to evaluate the model.
-5. **User Input for Prediction**: The user can input values for the features to get a prediction for annual landings.
+1. **Open `Moore_Miller_FinalProject_CSCI6020.m`**: Open the R Markdown file in RStudio.
+2. **Load the Data**: The script reads the dataset from `iphc_fulldataset_full_depth.csv`.
+3. **Filter by Regulation Area**: The user is prompted to enter a regulation area to filter the data.
+4. **Preprocess the Data**: The script handles missing values and converts categorical variables to numeric.
+5. **Train and Evaluate the Model**: The script splits the data into training and testing sets, standardizes the features, and trains a KNN model. It also performs cross-validation to evaluate the model.
+6. **User Input for Prediction**: The user can input values for the features to get a prediction for annual landings.
 
