@@ -23,10 +23,10 @@ The dataset used in this project is `iphc_fulldataset.csv`, which contains the f
 
 ## Project Structure
 - `Moore_FinalProject_Dasc6020.m`: Main script to run the KNN regression model.
-- `iphc_fulldataset_full_depth.csv`: Dataset file.
+- `iphc_fulldataset.csv`: Dataset file.
 
 ## Usage
-1. **Load the Data**: The script reads the dataset from `iphc_fulldataset_full_depth.csv`.
+1. **Load the Data**: The script reads the dataset from `iphc_fulldataset.csv`.
 2. **Filter by Regulation Area**: The user is prompted to enter a regulation area to filter the data.
 3. **Preprocess the Data**: The script handles missing values and converts categorical variables to numeric.
 4. **Train and Evaluate the Model**: The script splits the data into training and testing sets, standardizes the features, and trains a KNN model. It also performs cross-validation to evaluate the model.
