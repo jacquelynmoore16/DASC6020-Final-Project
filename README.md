@@ -7,7 +7,7 @@ Final project for CSCI 6020 at ECU
 This project aims to build a K-Nearest Neighbors (KNN) regression model to predict annual fisheries landings in Alaska based on various oceanographic features. The model is trained and evaluated using data filtered by specific regulation areas.
 
 ## Data
-The dataset used in this project is `iphc_fulldataset_full_depth.csv`, which contains the following features:
+The dataset, `iphc_fulldataset_full_depth.csv`, used in this project is the final output from `Moore_Miller_FinalProject_Preprocessing_CSCI6020.Rmd', which contains the following features:
 - `avg_temp`: Average Temperature
 - `avg_oxy`: Average Oxygen
 - `avg_chloro`: Average Chlorophyll
@@ -36,14 +36,16 @@ The dataset used in this project is `iphc_fulldataset_full_depth.csv`, which con
 - `iphc2016.csv` : 2016 Data File
 - `iphc2017.csv` : 2017 Data File
 - `iphc2018.csv` : 2018 Data File
+- `iphc_annual_landings.csv`: Annual Landings Data File 
 
 
 ## Usage
 ### R Markdown
 1. **Open `Moore_Miller_FinalProject_Preprocessing_CSCI6020.Rmd`**: Open the R Markdown file in RStudio.
-2. **Run the Chunks**: Execute the code chunks to perform data analysis and visualization.
-3. **Generate Report**: Knit the document to produce a comprehensive report in HTML, PDF, or Word format.
-4. 
+2. **Unzip Data**: Unzip annual data files `iphc2009_2011.zip`, `iphc2012_2014.zip`, `iphc2015-2018.zip` and add to working directory.  
+3. **Run the Chunks**: Execute the code chunks to perform data analysis and visualization. Set working directory as user desired (line 11). 
+4. **Generate Report**: Knit the document to produce a comprehensive report in HTML, PDF, or Word format. A knit HTML is already available in this repository with the same file name as `Moore_Miller_FinalProject_Preprocessing_CSCI6020.html`. 
+5. **Data Output**: Output includes .csv file `iphc_fulldataset_full_depth.csv`. 
 ### MATLAB
 1. **Open `Moore_Miller_FinalProject_CSCI6020.m`**: Open the R Markdown file in RStudio.
 2. **Load the Data**: The script reads the dataset from `iphc_fulldataset_full_depth.csv`.
