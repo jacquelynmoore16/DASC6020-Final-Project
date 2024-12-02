@@ -40,7 +40,7 @@ The dataset used in this project is `iphc_fulldataset_full_depth.csv`, which con
 
 ## Usage
 ### R Markdown
-1. **Open `analysis.Rmd`**: Open the R Markdown file in RStudio.
+1. **Open `Moore_Miller_FinalProject_Preprocessing_CSCI6020.Rmd`**: Open the R Markdown file in RStudio.
 2. **Run the Chunks**: Execute the code chunks to perform data analysis and visualization.
 3. **Generate Report**: Knit the document to produce a comprehensive report in HTML, PDF, or Word format.
 4. 
