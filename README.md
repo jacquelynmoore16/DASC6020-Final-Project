@@ -44,7 +44,7 @@ The dataset, `iphc_fulldataset_full_depth.csv`, used in this project is the fina
 1. **Open `Moore_Miller_FinalProject_Preprocessing_CSCI6020.Rmd`**: Open the R Markdown file in RStudio.
 2. **Unzip Data**: Unzip annual data files `iphc2009_2011.zip`, `iphc2012_2014.zip`, `iphc2015-2018.zip` and add to working directory.  
 3. **Run the Chunks**: Execute the code chunks to perform data analysis and visualization. Set working directory as user desired (line 11). 
-4. **Generate Report**: Knit the document to produce a comprehensive report in HTML, PDF, or Word format. A knit HTML is already available in this repository with the same file name as `Moore_Miller_FinalProject_Preprocessing_CSCI6020.html`. 
+4. **Generate Report**: Knit the document to produce a comprehensive report in HTML, PDF, or Word format. A knit HTML is already available in this repository as `Moore_Miller_FinalProject_Preprocessing_CSCI6020.html`. 
 5. **Data Output**: Output includes .csv file `iphc_fulldataset_full_depth.csv`. 
 ### MATLAB
 1. **Open `Moore_Miller_FinalProject_CSCI6020.m`**: Open the R Markdown file in RStudio.
